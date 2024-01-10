@@ -130,8 +130,6 @@ private:
             {
                 update<0>(chain, coefficients);
             }
-
-
         }
     }
 
